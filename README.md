@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h3><b>Portfolio: desktop version</b></h3>
+  <h3><b>Portfolio: mobile menu</b></h3>
 </div>
 
 # 📗 Table of Contents
@@ -27,9 +27,9 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 Portfolio: desktop version <a name="about-project"></a>
+# 📖 Portfolio: mobile menu <a name="about-project"></a>
 
-Portfolio: desktop version  project is the desktop version of my portiflio .
+Portfolio: mobile menu project is the first js related project of my portiflio .
 
 ## 🛠 Built With <a name="built-with"></a>
 
