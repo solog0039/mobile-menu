@@ -50,7 +50,7 @@ Portfolio: mobile menu project is the first js related project of my portiflio .
 
 ### Key Features <a name="key-features"></a>
 
-- linter setup
+- JS linter setup
 - HTML and CSS file creation
 - creating the work and about me sections of my mobile version portiflio
 <p align="right">
@@ -112,6 +112,7 @@ To run this project:
 - [] HTML file
 - [] CSS file
 - [] Toolbar and headline 
+- [] Javascript objects.  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
