@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h3><b>Portfolio: desktop version</b></h3>
+  <h3><b>Portfolio: mobile menu</b></h3>
 </div>
 
 # 📗 Table of Contents
@@ -27,7 +27,7 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 Portfolio: desktop version <a name="about-project"></a>
+# 📖 Portfolio: mobile menu <a name="about-project"></a>
 
 Portfolio: desktop version  project is the desktop version of my portiflio .
 
@@ -50,7 +50,7 @@ Portfolio: desktop version  project is the desktop version of my portiflio .
 
 ### Key Features <a name="key-features"></a>
 
-- linter setup
+- JS linter setup
 - HTML and CSS file creation
 - creating the work and about me sections of my mobile version portiflio
 <p align="right">
@@ -112,6 +112,7 @@ To run this project:
 - [] HTML file
 - [] CSS file
 - [] Toolbar and headline 
+- [] Javascript objects.  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
