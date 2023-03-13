@@ -46,6 +46,10 @@ Portfolio: mobile menu project is the first js related project of my portiflio .
   <ul>
     <li><a href="NA">NA</a></li>
   </ul>
+  <summary>JavaScript</summary>
+  <ul>
+    <li><a href="NA">NA</a></li>
+  </ul>
 </details>
 
 ### Key Features <a name="key-features"></a>
