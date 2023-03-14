@@ -212,7 +212,7 @@ table {
   padding: 8px;
   text-decoration: none;
   font-size: 36px;
-  color: #fff5e1;
+  color: #eae8e4;
   display: block;
 }
 
@@ -224,7 +224,7 @@ table {
 .m-menu .closebtn {
   position: absolute;
   right: 35px;
-  font-size: 60px;
+  font-size: 50px;
 }
 
 /* menu end */
