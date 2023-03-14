@@ -108,6 +108,11 @@ To run this project:
 - Twitter: [@Solomon](https://twitter.com/Solomon57320119)
 - LinkedIn: [Solomon](www.linkedin.com/in/solomon-kidanu-62a994232)
 
+👤 Daniel Villalba Lynch
+
+- GitHub: [@gdvl777](https://github.com/gdvl777)
+- LinkedIn: [Daniel Villalba](https://www.linkedin.com/in/dvillalba777/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
